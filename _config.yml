@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: 1363550295@qq.com 
 description: "纵有疾风起,人生不言弃."
 keyword: "Maorong Blog, Maorong的小站"
-url: "http://hmr.wiki"          # your host, for absolute URL
+url: "https://maorongh.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/MaoRongH/MaoRongH.github.io.git" # you code repository
 
