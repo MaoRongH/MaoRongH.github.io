@@ -1,24 +1,24 @@
 # Site settings
-title: Kali Blog
-SEOTitle: Kali 的小站
+title: Maorong Blog
+SEOTitle: Maorong 的小站
 header-img: img/post-bg-desk.jpg
 email: kalierincn@outlook.com
-description: "中立最好，学校最坏."
-keyword: "Kali Blog, Kali的小站"
-url: "https://kalicn.github.io"          # your host, for absolute URL
+description: "纵有疾风起,人生不言弃."
+keyword: "Maorong Blog, Maorong的小站"
+url: "https://Maorong.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/kalicn/kalicn.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "与其看教科书，还不如读Linux源码。"
+sidebar-about-description: "纵有疾风起,人生不言弃."
 sidebar-avatar: /img/yeswecode.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: true
-github_username:    kalicn
+github_username:    MaoRongH
 
 
 
@@ -57,9 +57,9 @@ gitalk:
   enable: true   #是否开启Gitalk评论
   clientID: 5943aeedd7ee1a1cbdf7        # 嘿，别乱看我的秘密                #生成的clientID
   clientSecret: 4ffbc9e4eb8b6aef2b390b2bda69ed6a744c5c07    #生成的clientSecret
-  repo: kalicn.github.io    #仓库名称
-  owner: kalicn    #github用户名
-  admin: kalicn
+  repo: maorong.github.io    #仓库名称
+  owner: MaoRongH    #github用户名
+  admin: MaoRongH
   distractionFreeMode: false #是否启用类似FB的阴影遮罩
   perPage: 15
 
@@ -85,21 +85,21 @@ featured-condition-size: 1             # 相同标签数量大于这个数，才
 
 # Friends
 friends: [
-    {
-        title: "七夏浅笑",
-        href: "http://julydate.com/"
-    },{
-        title: "可视化",
-        href: "https://gujiayu7676.github.io/"
+#     {
+#         title: "七夏浅笑",
+#         href: "http://julydate.com/"
+#     },{
+#         title: "可视化",
+#         href: "https://gujiayu7676.github.io/"
 
-    },{
-        title: "Jiyiren.Blog",
-        href: "https://jiyiren.github.io/"
-    },{
-        title: "由我管理的NoSchoolBlog",
-        href: "https://kalicn.github.io/noschoolblog/"
-    },{
-        title: "KaliBlog分站",
-        href: "https://kalicnblog.blogspot.com"
-    }    
+#     },{
+#         title: "Jiyiren.Blog",
+#         href: "https://jiyiren.github.io/"
+#     },{
+#         title: "由我管理的NoSchoolBlog",
+#         href: "https://kalicn.github.io/noschoolblog/"
+#     },{
+#         title: "KaliBlog分站",
+#         href: "https://kalicnblog.blogspot.com"
+#     }    
 ]
