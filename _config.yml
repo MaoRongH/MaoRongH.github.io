@@ -2,12 +2,12 @@
 title: Maorong Blog
 SEOTitle: Maorong 的小站
 header-img: img/post-bg-desk.jpg
-email: kalierincn@outlook.com
+email: 1363550295@qq.com 
 description: "纵有疾风起,人生不言弃."
 keyword: "Maorong Blog, Maorong的小站"
-url: "https://Maorong.github.io"          # your host, for absolute URL
+url: "https://maorongh.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/kalicn/kalicn.github.io.git" # you code repository
+github_repo: "https://github.com/MaoRongH/MaoRongH.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -57,7 +57,7 @@ gitalk:
   enable: true   #是否开启Gitalk评论
   clientID: 5943aeedd7ee1a1cbdf7        # 嘿，别乱看我的秘密                #生成的clientID
   clientSecret: 4ffbc9e4eb8b6aef2b390b2bda69ed6a744c5c07    #生成的clientSecret
-  repo: maorong.github.io    #仓库名称
+  repo: MaoRongH.github.io    #仓库名称
   owner: MaoRongH    #github用户名
   admin: MaoRongH
   distractionFreeMode: false #是否启用类似FB的阴影遮罩
